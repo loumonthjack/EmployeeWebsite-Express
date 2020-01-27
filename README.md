@@ -1,5 +1,5 @@
 # EmployeeEntryWebsite
-# Express/Mongoose/MongoDB/Passport/Node/JavaScript
+# Express-Mongoose-MongoDB-Passport-Node-JavaScript
 Backend for Employee Website - MERN Stack
 
 npm install

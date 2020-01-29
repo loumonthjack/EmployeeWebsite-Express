@@ -1,6 +1,6 @@
 # EmployeeEntryWebsite
 # Express-Mongoose-MongoDB-Passport-Node-JavaScript
-Backend for Employee Website - MERN Stack
+Server for Employee Website - MERN Stack
 
 mongod run
 
@@ -10,4 +10,4 @@ npm install
 
 node server.js
 
-""" This is backend for EmployeeWebsite - React Repository"""
+""" This is server for EmployeeWebsite - React Repository"""

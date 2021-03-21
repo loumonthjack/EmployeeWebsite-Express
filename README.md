@@ -10,4 +10,4 @@ npm install
 
 node server.js
 
-""" This is server for EmployeeWebsite - React Repository"""
+""" This is server for EmployeeWebApp - React Repository"""

@@ -1,6 +1,6 @@
-# EmployeeEntryWebsite
+# EmployeeEntryWebApp
 # Express-Mongoose-MongoDB-Passport-Node-JavaScript
-Server for Employee Website - MERN Stack
+Server for Employee WebApp - MERN Stack
 
 mongod run
 
